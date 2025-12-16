@@ -172,6 +172,6 @@ To request GDPR-related actions, contact our support server.
 
 ---
 
-**Effective Date:** December 16, 2024
+**Effective Date:** December 16, 2025
 
 By using z_o Discord Bot, you acknowledge that you have read and understood this Privacy Policy.
