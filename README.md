@@ -157,7 +157,7 @@ We may update this Privacy Policy. Changes will be announced in our support serv
 ## 11. Contact
 
 For privacy concerns or data requests:
-- **Support Server**: https://discord.gg/sjzChzKQKu
+- **Support Server**: https://discord.gg/t5raYBjMKQ
 - **Bot Invite**: https://discord.com/api/oauth2/authorize?client_id=963167170668421131&permissions=8&scope=bot%20applications.commands
 
 ## 12. GDPR Compliance
