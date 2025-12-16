@@ -55,10 +55,6 @@ When you use the Bot, we automatically collect:
 - Participant IDs
 - End time
 
-#### Music System
-- Song queue (temporary, not stored)
-- No persistent data
-
 #### Role Management
 - User IDs (for role panels)
 - Server ID
