@@ -1,6 +1,6 @@
 # Privacy Policy for z_o Discord Bot
 
-**Last Updated:** December 16, 2024
+**Last Updated:** December 16, 2025
 
 ## 1. Introduction
 
